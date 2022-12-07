@@ -27,7 +27,7 @@ Install
 Ejecutar SCRIPT SQL alojado en la carpeta "INFO"
 
 ```
-  git clone https://github.com/feblesariel/alkemy-challenge.git
+  https://github.com/feblesariel/Final_Web_II.git
   npm install
     
 ```
